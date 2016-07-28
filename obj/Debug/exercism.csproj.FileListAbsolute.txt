@@ -1,0 +1,6 @@
+C:\Users\Amy\exercism\csharp\bin\Debug\exercism.dll
+C:\Users\Amy\exercism\csharp\bin\Debug\exercism.pdb
+C:\Users\Amy\exercism\csharp\bin\Debug\nunit.framework.xml
+C:\Users\Amy\exercism\csharp\obj\Debug\exercism.csprojResolveAssemblyReference.cache
+C:\Users\Amy\exercism\csharp\obj\Debug\exercism.dll
+C:\Users\Amy\exercism\csharp\obj\Debug\exercism.pdb

@@ -1,0 +1,7 @@
+C:\Users\Amy\exercism\csharp\leap\obj\Debug\leap.csprojResolveAssemblyReference.cache
+C:\Users\Amy\exercism\csharp\leap\bin\Debug\leap.dll
+C:\Users\Amy\exercism\csharp\leap\bin\Debug\leap.pdb
+C:\Users\Amy\exercism\csharp\leap\bin\Debug\nunit.framework.dll
+C:\Users\Amy\exercism\csharp\leap\bin\Debug\nunit.framework.xml
+C:\Users\Amy\exercism\csharp\leap\obj\Debug\leap.dll
+C:\Users\Amy\exercism\csharp\leap\obj\Debug\leap.pdb
